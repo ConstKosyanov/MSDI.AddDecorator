@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSDI.Decorator", "MSDI.Decorator\MSDI.Decorator.csproj", "{C740DBA3-51B4-4F39-A878-866C8141DD89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSDI.Decorator.Tests", "MSDI.Decorator.Tests\MSDI.Decorator.Tests.csproj", "{6D732709-2A47-4AAC-81B5-56507C86FC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C740DBA3-51B4-4F39-A878-866C8141DD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C740DBA3-51B4-4F39-A878-866C8141DD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C740DBA3-51B4-4F39-A878-866C8141DD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C740DBA3-51B4-4F39-A878-866C8141DD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D732709-2A47-4AAC-81B5-56507C86FC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D732709-2A47-4AAC-81B5-56507C86FC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D732709-2A47-4AAC-81B5-56507C86FC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D732709-2A47-4AAC-81B5-56507C86FC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
